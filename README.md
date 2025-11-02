@@ -464,7 +464,7 @@ python windows_control_panel.py 2> error_log.txt
 ![Dashboard](screenshots/Dashboard.png)
 
 ### ابزار های پیشرفته
-![Monitoring](screenshots/monitoring.png)
+![Monitoring](screenshots/Advanced-Tools.png)
 
 ---
 
