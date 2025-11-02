@@ -174,7 +174,7 @@
 
 ```bash
 # با Git
-git clone https://github.com/yourusername/windows-control-panel.git
+git clone https://github.com/Scary-technologies/Microsoft-Windows-User-Manager.git
 cd windows-control-panel
 
 # یا دانلود ZIP و استخراج آن
